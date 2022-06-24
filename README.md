@@ -1,2 +1,2 @@
 # tap
-Everything needed for GKE TAP
+The one stop shop for all things GKE TAP.
